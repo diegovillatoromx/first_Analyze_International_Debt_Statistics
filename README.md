@@ -1,4 +1,4 @@
-# Analyze_International_Debt_Statistics project by Diego Villatoro
+# Analyze International Debt Statistics project by Diego Villatoro
 
 ## Project Overview
 In the realm of data engineering, our focus extends beyond personal financial obligations, encompassing the intricate fiscal landscape of nations. Just as individuals seek loans to manage necessities, countries also engage in debt strategies to navigate their economies. Take, for instance, the substantial investment required for bolstering infrastructure, a vital facet in ensuring the well-being of a nation's populace. Facilitating this financial dynamic is The World Bank, the eminent institution extending fiscal support to nations.
