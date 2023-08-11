@@ -9,6 +9,10 @@ Within this project's ambit lies the analysis of an extensive repository of inte
 2. Which sovereign entity claims the preeminent share of debt, and to what magnitude does this figure ascend?
 3. How does the mean debt quantum vary amongst countries, juxtaposed against distinct debt indicators?
 
+## Services we will be using
+
+In this data engineering endeavor, the bedrock of our technological framework centers around the robust and versatile domain of SQL (Structured Query Language). SQL serves as the linchpin that facilitates the extraction, transformation, and analysis of intricate datasets, enabling us to glean invaluable insights from the amassed information.
+
 ## Dataset Used
 
 The foundation of this analysis is constructed upon data sourced from The World Bank, encompassing both national and regional debt metrics spanning numerous countries globally. The temporal scope spans from 1970 to 2015, providing a comprehensive temporal panorama for our investigation.
