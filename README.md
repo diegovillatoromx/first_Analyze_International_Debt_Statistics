@@ -10,9 +10,9 @@ Within this project's ambit lies the analysis of an extensive repository of inte
 3. How does the mean debt quantum vary amongst countries, juxtaposed against distinct debt indicators?
 
 ## Project Goals
-1. Data Importing: SQL is used to bring external data into the project's database.
-2. Data Cleaning: SQL helps ensure data quality by performing tasks like handling missing values, fixing format issues, and removing duplicates.
-3. Data Manipulation: SQL's querying capabilities drive data analysis. 
+1. Data Importing — SQL is used to bring external data into the project's database.
+2. Data Cleaning — SQL helps ensure data quality by performing tasks like handling missing values, fixing format issues, and removing duplicates.
+3. Data Manipulation — SQL's querying capabilities drive data analysis. 
 
 ## Services we will be using
 
