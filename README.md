@@ -24,7 +24,4 @@ The foundation of this analysis is constructed upon data sourced from The World 
 
 https://www.worldbank.org/en/home 
 
-
-## Architecture Diagram
-<img src="architecture.jpeg">
  
